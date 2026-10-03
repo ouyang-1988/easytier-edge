@@ -21,7 +21,7 @@
 	"vars": {
 		"EASYTIER_HOSTNAME": "edge",
 		"MAX_FRAME_BYTES": "1048576",
-        "EASYTIER_NETWORKS": "[{"network_name":"AAABB","network_secret":"AAA"}]"
+        "EASYTIER_NETWORKS": "[{\"network_name\":\"AAA\",\"network_secret\":\"AAA\"},{\"network_name\":\"AAABB\",\"network_secret\":\"AAA\"}]"
 	},
 	"placement": {
 		"mode": "smart"
